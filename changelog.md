@@ -1,13 +1,18 @@
 # GTFS Studio
 
-### 2021-06-25
-New database structure for performance and data validation
+### 2021-06-26
+Database structure changes
 
-Some queries improved over 300%
+Reduced database to half the size
 
-Support for translations and attributions in GTFS
+Added some constraints for data validation, some GTFS dropped due to invalid data
 
-Reduced database size from 8GB to 1GB
+### 2021-06-25 - Studio down for structural db changes
+New database indexes for performance
+
+Up to 5x reduced response times in some queries
+
+Support for new translations and attributions objects in GTFS
 
 ### 2021-06-21
 New way of organizing the GTFS menu tree, grouping trips with the same stops and sequence to shorten the menu
