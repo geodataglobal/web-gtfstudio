@@ -1,11 +1,13 @@
 # GTFS Studio
 
+### 2021-06-27
+
+Added some constraints for data validation (languages, timezones and currencies), some GTFS dropped due to invalid data.
+
 ### 2021-06-26
 Database structure changes
 
 Reduced database size by half
-
-Added some constraints for data validation, some GTFS dropped due to invalid data
 
 ### 2021-06-25 - Studio down for structural db changes
 New database indexes for performance
