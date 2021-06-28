@@ -6,7 +6,7 @@
 `feed_info.feed_lang`
 `translations.language`
 
-Must be defined according to the 2 lower case letter [ISO 639-1 Code](https://www.loc.gov/standards/iso639-2/php/code_list.php) standard, with the exception of `mul` for multilanguage
+Must be defined according to the 2 lower case letter [ISO 639-1 Code](https://www.loc.gov/standards/iso639-2/php/code_list.php), with the exception of `mul` for multilanguage
 
 ### Currency codes
 `fare_attributes.currency`
