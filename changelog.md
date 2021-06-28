@@ -2,7 +2,7 @@
 
 ### 2021-06-27
 
-Added some constraints for data validation ([languages, timezones and currencies](https://gtfs.studio/validations), some GTFS dropped due to invalid data.
+Added some constraints for data validation ([languages, timezones and currencies](https://gtfs.studio/validations)), some GTFS dropped due to invalid data.
 
 ### 2021-06-26
 Database structure changes
