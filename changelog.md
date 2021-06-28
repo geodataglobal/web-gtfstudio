@@ -1,5 +1,7 @@
-### 2021-06-27
+### 2021-06-28
+Code cleanup
 
+### 2021-06-27
 Added some constraints for data validation ([languages, timezones and currencies](https://gtfs.studio/validations)), some GTFS dropped due to invalid data.
 
 ### 2021-06-26
@@ -105,8 +107,11 @@ Added settings
 ### 2019-05-13
 Autozoom
 
+### 2019-05-02
+GTFS Studio online!
+
 ### 2019-04-29
-GTFS parsing!
+GTFS parsing
 
 ### 2019-04-09
 Initial DB structure and project design
