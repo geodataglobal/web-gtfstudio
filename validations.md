@@ -19,7 +19,7 @@ Must be defined according to the 3 upper case letter active [ISO 4217 Code](http
 
 Must be specified according to the current [TZ database](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones)
 
-They must be in the `Region/(Zone)/City` format
+They must be in the `Region/(Zone)/City` format to take into account local daylight saving rules
 
 *Generic* `Factory`, `Etc/*`, `GMT`, `UTC` are not accepted
 
