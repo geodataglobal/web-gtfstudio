@@ -3,7 +3,7 @@
 ### 2021-06-26
 Database structure changes
 
-Reduced database to half the size
+Reduced database size by half
 
 Added some constraints for data validation, some GTFS dropped due to invalid data
 
