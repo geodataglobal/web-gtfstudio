@@ -27,7 +27,7 @@ They must be in the `Region/(Zone)/City` format to take into account local dayli
 
 
 ### Reference
-Provided just as a reference for the possible values of each enum, the colums are sorted alphabetically, they are *not* related:
+A simple list for the possible values of each enum, the colums are sorted alphabetically, they are *not* related:
 
 
 Timezones|Languages|Currencies
@@ -458,3 +458,5 @@ Pacific/Tarawa||
 Pacific/Tongatapu||
 Pacific/Wake||
 Pacific/Wallis||
+
+If you cannot find your timezone, please browse the [TZ database](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones) table, it may be *deprecated*.
