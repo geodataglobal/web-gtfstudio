@@ -1,3 +1,8 @@
+### 2021-07-08
+Lots and lots of bug fixes, some performance improvements and minor interface changes
+
+New feature: Toggle show/hide used shapes/stops and orphans available
+
 ### 2021-06-28 - Studio online
 Code cleanup
 
