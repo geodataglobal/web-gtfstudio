@@ -21,9 +21,9 @@ Must be specified according to the current [TZ database](https://en.wikipedia.or
 
 They must be in the `Region/(Zone)/City` format to take into account local daylight saving rules
 
-*Generic* `Factory`, `Etc/*`, `GMT`, `UTC` are not accepted
+*Generic* `Factory`, `Etc/*`, `GMT`, `UTC` are **not accepted**
 
-*Deprecated* timezones are not accepted
+*Deprecated* timezones are **not accepted**
 
 
 ### Reference
