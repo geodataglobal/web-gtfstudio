@@ -1,3 +1,10 @@
+### 2021-07-12
+Another DB restructuration and more validations.
+
+Due to the increasing data volume we are deleting old feeds. (not even opened for a week)
+
+Added [gtfstidy](https://github.com/patrickbr/gtfstidy) process to the import process to optimize shapes and remove duplicates.
+
 ### 2021-07-08
 Lots and lots of bug fixes, some performance improvements and minor interface changes
 
