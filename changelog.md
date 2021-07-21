@@ -1,3 +1,6 @@
+### 2021-07-21
+Bug fixes and performance improvements.
+
 ### 2021-07-14
 Added [gtfstidy](https://github.com/patrickbr/gtfstidy) at the import process to optimize shapes and remove duplicates.
 
