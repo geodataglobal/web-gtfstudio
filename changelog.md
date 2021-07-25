@@ -1,11 +1,14 @@
+### 2021-07-25
+Fix Data Editor not auto-saving changes
+
 ### 2021-07-21
-Bug fixes and performance improvements.
+Bug fixes and performance improvements
 
 ### 2021-07-14
-Added [gtfstidy](https://github.com/patrickbr/gtfstidy) at the import process to optimize shapes and remove duplicates.
+Added [gtfstidy](https://github.com/patrickbr/gtfstidy) at the import process to optimize shapes and remove duplicates
 
 ### 2021-07-12
-Another DB restructuration and more validations.
+Another DB restructuration and more validations
 
 Due to the increasing data volume we are deleting old feeds. (not opened for a week)
 
@@ -18,7 +21,7 @@ New feature: Toggle show/hide used shapes/stops and orphans available
 Code cleanup
 
 ### 2021-06-27
-Added some constraints for data validation ([languages, timezones and currencies](https://gtfs.studio/validations)), some GTFS dropped due to invalid data.
+Added some constraints for data validation ([languages, timezones and currencies](https://gtfs.studio/validations)), some GTFS dropped due to invalid data
 
 ### 2021-06-26
 Database structure changes
