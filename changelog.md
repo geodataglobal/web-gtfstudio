@@ -1,3 +1,12 @@
+### 2021-08-08
+Added multiple basemaps to choose from
+
+Better icons and some CSS fixes
+
+Improved loading times
+
+Web libraries update
+
 ### 2021-07-25
 Fix Data Editor not auto-saving changes
 
