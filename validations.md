@@ -26,10 +26,12 @@ They must be in the `Region/(Zone)/City` format to take into account local dayli
 *Deprecated* timezones are **not accepted**
 
 
-### Reference
-A simple list of the most common language and currency for each country, just as a reference:
+## Reference
 
-CC|Language|Currency|Country
+### Countries, Languages & Currencies
+Most common language and currency for each country (CC:Country Code):
+
+CC|LANG|CUR|Country
 -|-|-|-
  AF | fa   | AFN      | Afghanistan
  AX | sv   | EUR      | Åland Islands
@@ -279,7 +281,8 @@ CC|Language|Currency|Country
  ZM | en   | ZMW      | Zambia
  ZW | en   | ZWL      | Zimbabwe
 
-And the relation between timezones and countries:
+### Countries and Timezones
+(Without Antartica)
 
 CC|Timezone
 -|-
@@ -700,4 +703,4 @@ CC|Timezone
  WF         | Pacific/Wallis
 
 
-If you cannot find your timezone, please browse the [TZ database](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones) table, it may be *deprecated*.
+If you cannot find a specific timezone, please browse the [TZ database](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones) table, it may be *deprecated*.
