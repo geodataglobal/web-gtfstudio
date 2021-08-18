@@ -1,3 +1,10 @@
+### 2021-08-18
+Style fixes, improved delete GTFS
+
+Fix shape direction indicators
+
+Switched libraries to CDN networks
+
 ### 2021-08-08
 Added multiple basemaps to choose from
 
