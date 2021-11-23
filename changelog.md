@@ -1,3 +1,36 @@
+### 2021-11-22
+Fix remove multiple shapes
+
+### 2021-11-19
+Fix data editor bug for "show all records"
+
+### 2021-11-08
+Fix broken GTFS exports with special ENUMs
+
+### 2021-11-05
+Generate report for KML imports
+
+### 2021-10-31
+Generate merge report
+
+### 2021-10-30
+Merge GTFS with replace/add entities options
+
+### 2021-10-27
+Merge Agencies within a GTFS with replace/add entities options
+
+### 2021-10-20
+KML imports for shapes and stops!
+
+### 2021-10-14
+Migrated to it's own mail service for notifications
+
+### 2021-09-06
+Small fix for multiple choice interfaces
+
+### 2021-08-19
+Registration with country, currency and timezone to help default values
+
 ### 2021-08-18
 Style fixes, improved delete GTFS
 
