@@ -1,3 +1,9 @@
+### 2021-11-29
+Data Editor helpers for feed_info
+
+### 2021-11-29
+Data Editor helpers for frequencies
+
 ### 2021-11-26
 Fix login issue
 
@@ -6,6 +12,9 @@ Fix remove multiple shapes
 
 ### 2021-11-19
 Fix data editor bug for "show all records"
+
+### 2021-11-16
+Data Editor shapes now as relation with trips and routes
 
 ### 2021-11-08
 Fix broken GTFS exports with special ENUMs
