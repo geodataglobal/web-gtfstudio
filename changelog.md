@@ -1,3 +1,6 @@
+### 2021-12-10
+Editable group profile with users and membership info
+
 ### 2021-11-29
 Data Editor helpers for feed_info
 
