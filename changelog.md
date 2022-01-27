@@ -1,3 +1,12 @@
+### 2022-01-26
+Performance improvements for shapes (map display and data updates)
+
+### 2022-01-25
+Fix routes filters in Data Editor
+
+### 2022-01-24
+Sort all menu and table data
+
 ### 2021-12-10
 Editable group profile with users and membership info
 
