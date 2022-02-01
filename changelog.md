@@ -1,3 +1,12 @@
+### 2022-01-31
+New fix ovelapping frequencies function
+
+### 2022-01-29
+Faster initial gtfs menu process
+
+### 2022-01-28
+Faster toggles for stops and shapes
+
 ### 2022-01-26
 Performance improvements for shapes (map display and data updates)
 
