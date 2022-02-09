@@ -1,5 +1,8 @@
+### 2022-02-08
+Fix some issues for frequency data above 24 hrs
+
 ### 2022-01-31
-New fix ovelapping frequencies function
+New function to fix ovelapping frequencies
 
 ### 2022-01-29
 Faster initial gtfs menu process
